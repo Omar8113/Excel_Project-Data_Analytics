@@ -15,4 +15,4 @@ As a former job seeker, I've always been surprised by the lack of data exploring
 
 <img width="748" height="380" alt="Project_Analysis_Chart 1" src="https://github.com/user-attachments/assets/f7989062-7d34-4f25-a332-049d910cf436" />
 
-<img width="640" height="359" alt="Project_Analysis_Chart 3" src="https://github.com/user-attachments/assets/dd50bd12-bafd-4858-a3ec-c559cbd621ce" />
+<img width="634" height="369" alt="Project_Analysis_Chart 3" src="https://github.com/user-attachments/assets/7d13274f-73fd-45ac-8f8c-8f2c2ee1fd31" />
