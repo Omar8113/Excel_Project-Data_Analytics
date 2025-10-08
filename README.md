@@ -11,7 +11,7 @@ My project demonstrating my Excel skills
 ## Salary Analysis
 As a former job seeker, I've always been surprised by the lack of data exploring the most optimal jobs and skills in the data science market. I set out to understand what skills top employers request and how to land more pay.
 
-[Checkout my work here](Project_1-Analysis)
+[Checkout my work here](Project_2-Analysis)
 
 <img width="748" height="380" alt="Project_Analysis_Chart 1" src="https://github.com/user-attachments/assets/f7989062-7d34-4f25-a332-049d910cf436" />
 
